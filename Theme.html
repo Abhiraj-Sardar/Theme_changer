@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script>
+        let i=0;
+    </script>
+    <div class="box">
+        <button class="button-36" onclick="change()" role="button">Change Theme</button>
+    </div>
+    
+    <script>
+        let arr=["#333","#B15EFF","#FFA33C","#FFFB73","#F39F5A","#CD1818","#E384FF","#C147E9","#F1D00A","#97FFF4","#F11A7B"];
+        function change(){
+            if(i==arr.length)
+            {
+                i=1;
+                theme();
+            }
+            else{
+                i+=1;
+                theme();
+            }
+        }
+        function theme(){
+            document.bgColor=arr[i];
+        }
+    </script>
+</body>
+</html>

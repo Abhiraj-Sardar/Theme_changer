@@ -1,6 +1,6 @@
 # Theme_changer
 <ul>
-<li>Introduction</li>
+<li><b>Introduction</b></li>
 <b>Theme Changer</b> is one of my mini project that is to showcase my javascript skills.
 </ul>
 

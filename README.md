@@ -2,7 +2,7 @@
 <ul>
 <li><b>Introduction</b></li>
 <b>Theme Changer</b> is one of my mini project that is to showcase my javascript skills.
-<br>
+<br/>
 <li><b>Technology Stack</b></li>
 <ol>
 <li>HTML5</li>

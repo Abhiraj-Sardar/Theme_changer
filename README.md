@@ -17,4 +17,4 @@ There will be one button at the center of the screen. You just need to click on 
 
 <li><b>OUTPUT</b></li></ul>
 
-![](https://github.com/Abhiraj-Sardar/Theme_changer/blob/master/img/output.gif.gif)
+![](https://github.com/Abhiraj-Sardar/Theme_changer/blob/master/img/output.gif)
